@@ -1,5 +1,5 @@
 # Learning_WhereToLook
-This repository is the implementation of the paper [Learning Where to Look While Tracking Instruments in Robot-assisted Surgery](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_46). The paper is selected to present oral and poster both in [MICCAI 2019 conference](https://www.miccai2019.org/). 
+This repository contains the proposed model architecture of the paper [Learning Where to Look While Tracking Instruments in Robot-assisted Surgery](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_46). The paper is selected to present oral and poster both in [MICCAI 2019 conference](https://www.miccai2019.org/). 
 
 
 ### Dataset:
