@@ -8,7 +8,7 @@ dataset is used to conduct all the segmentation experiments in this paper. The d
 
 Train Set: 1,2,3,5,6,8
 
-Validation Set: 4,7
+Validation Set: 4,7 ([Download](https://drive.google.com/file/d/1YcXNOMZOiqgLUXZf_oCCbyuicVJRNR1J/view?usp=sharing))
 
 ### Scanpath annotation:
 <p align="center">
